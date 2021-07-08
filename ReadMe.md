@@ -1,6 +1,6 @@
 ### Built With
 
-* [C#]()
+* [C#]
 
 Each number in the sequence is the sum of the two numbers that precede it.
 <!-- GETTING STARTED -->
