@@ -15,4 +15,4 @@ Each number in the sequence is the sum of the two numbers that precede it.
 
 Tushar Sharma or Troy - tas2124@gmail.com
 
-Project Link: [https://github.com/TusharSharma-CS/Fibonacci](https://github.com/TusharSharma-CS/Fibonacci)
+Project Link: [https://github.com/TusharSharma-CS/FibonacciCSharp](https://github.com/TusharSharma-CS/FibonacciCSharp)
